@@ -22,28 +22,28 @@ so I created a separate countrylevel dataset for visualizations that require ind
 
 ### 1. Global Electric Car Sales Over Time
 
-![](../1.png)
+![](https://raw.githubusercontent.com/anurbekov/global-and-us-ev-visualization/main/images/1.png)
 
 I started my first visualization to examine how global electric car sales have changed over time. 
 The chart provides the opening context for the project by showing the overall scale and pace of growth in the global EV market.
 
 ### 2. EV Sales Share Across Major Markets
 
-![](../2.png)
+![](https://raw.githubusercontent.com/anurbekov/global-and-us-ev-visualization/main/images/2.png)
 
 This viz compares the share of new car sales that are electric in China, Europe, and the United States. 
 It shows how EV adoption has progressed at different speeds across major markets.
 
 ### 3. Global EV Sales by Major Market in 2025
 
-![](../3.png)
+![](https://raw.githubusercontent.com/anurbekov/global-and-us-ev-visualization/main/images/3.png)
 
 This chart shows the distribution of global electric car sales across China, Europe, the United States, 
 and the rest of the world in 2025. This visualization highlights the geographic concentration of the global EV market.
 
 ### 4. Countries with the Highest EV Sales Share in 2025
 
-![](../4.png)
+![](https://raw.githubusercontent.com/anurbekov/global-and-us-ev-visualization/main/images/4.png)
 
 While the previous chart shows where global EV sales are concentrated, 
 this visualization compares how deeply EVs have penetrated individual national car markets.
@@ -52,35 +52,35 @@ The chart highlights the countries where electric vehicles accounted for the lar
 
 ### 5. Public Charging Infrastructure by Charger Type in 2025
 
-![](../5.png)
+![](https://raw.githubusercontent.com/anurbekov/global-and-us-ev-visualization/main/images/5.png)
 
 This chart compares the composition of public EV charging infrastructure in China, Europe, and the United States in 2025. 
 It distinguishes between slow, fast, and ultra-fast public charging points and shows how both the scale and structure of charging networks differ across major EV markets.
 
 ### 6. EV Stock and Public Charging Infrastructure in 2025
 
-![](../6.png)
+![](https://raw.githubusercontent.com/anurbekov/global-and-us-ev-visualization/main/images/6.png)
 
 This scatter plot compares the number of electric cars with the number of public charging points across markets in 2025. 
 It helps examine whether countries with larger EV fleets also tend to have more developed public charging infrastructure.
 
 ### 7. Growth of EV Adoption Across Selected Countries
 
-![](../7.png)
+![](https://raw.githubusercontent.com/anurbekov/global-and-us-ev-visualization/main/images/7.png)
 
 This heatmap depicts how the share of electric vehicles in new car sales changed over time across selected countries. 
 Darker cells represent higher EV sales shares, making it easier to compare the timing and speed of EV adoption across national markets.
 
 ### 8. Global Electric Car Sales by Powertrain
 
-![](../8.png)
+![](https://raw.githubusercontent.com/anurbekov/global-and-us-ev-visualization/main/images/8.png)
 
 This chart shows how global electric car sales have been divided between battery electric vehicles 
 (BEVs) and plug-in hybrid electric vehicles (PHEVs) over time. It helps show which powertrain has contributed most to the rapid expansion of the global EV market.
 
 ### 9. EV Sales Share Across Countries in 2025
 
-![](../9.png)
+![](https://raw.githubusercontent.com/anurbekov/global-and-us-ev-visualization/main/images/9.png)
 
 This world map shows the share of electric vehicles in new car sales across countries in 2025. 
 It provides a geographic view of EV adoption and highlights how uneven the global transition to electric vehicles remains.
