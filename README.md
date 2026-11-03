@@ -23,6 +23,7 @@ The analysis uses historical observations (2010–2025) for passenger cars. Sour
 Install dependencies and run the notebook from the repository root:
 
 uv sync
+
 uv run jupyter nbconvert --to notebook --execute --inplace notebooks/analysis.ipynb
 
 This regenerates all charts in images/. Open notebooks/final.html in a browser to view the article.
